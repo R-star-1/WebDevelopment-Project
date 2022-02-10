@@ -1,0 +1,15 @@
+.wrapper{
+    border:2px solid royalblue;
+    background-color: sandybrown;
+    width:400px;
+    height:400px;
+    border-radius:10px;
+}
+button{
+    border:5px solid white;
+    background-color: slateblue;
+    color:white;
+    font-weight:bold;
+    font-size:35px; 
+    padding:20px;
+}

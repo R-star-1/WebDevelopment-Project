@@ -1,0 +1,41 @@
+.Header{
+    background-color: rgb(9, 4, 61);
+    margin:0px;
+    padding:0px;
+    display:flex;
+    align-items:baseline;
+    align-content: flex-end;
+    justify-content:space-around;
+}
+h1{
+    color:rgb(253, 252, 235);
+    margin-top:0px;
+    padding:0px;
+    margin:0px ;
+    padding:0px;
+}
+ul{
+    list-style:none;
+    align-items:center;
+    display:flex;
+   
+}
+li{
+    padding:10px;
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+}
+li:hover{
+    background-color: white;
+    color:rgb(9, 4, 61);
+}
+a{
+    text-decoration: none;
+}
+.collections{
+    display:flex;
+    align-items:center;
+    justify-content: space-around;
+    flex-wrap:wrap;
+}
